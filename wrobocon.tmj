@@ -28,7 +28,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"tv.html"
+                         "value":"https:\/\/mikolajsteglinski-beep.github.io\/Wrobocon2026\/tv.html"
                         }],
                  "rotation":0,
                  "type":"website",
